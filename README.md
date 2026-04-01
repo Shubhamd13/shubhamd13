@@ -4,28 +4,7 @@ I'm a **Robotics graduate student at UC Riverside** specializing in **Embodied A
 
 I like building systems that are practical, reliable, and impactful — from backend and cloud infrastructure to robotics simulation and AI-driven applications. I’m especially drawn to hard problems that require thoughtful engineering and persistence.
 
-## 🚀 Current Focus
-- Advanced data structures and algorithms for real-world applications
-- Scalable and reliable system design
-- AI integration in practical products
-- Robotics, autonomy, and simulation
-
-## 📊 GitHub & Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamd13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamd13&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shubhamd13&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/shubhamd1310?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-## 💻 Experience
+## 💻 What I Work On
 My background includes work in:
 - Backend engineering
 - Cloud infrastructure
@@ -33,10 +12,20 @@ My background includes work in:
 - Robotics simulation
 - Applied machine learning
 
+## 📈 Coding Profile
+![LeetCode Stats](https://leetcard.jacoblin.cool/shubhamd1310?theme=dark&font=Karma)
+
 ## ⚡ About Me
 - Impact-oriented and collaborative
 - Strong ownership mindset
 - Persistent problem solver
+
+## 🏷️ Interests
+![Robotics](https://img.shields.io/badge/Focus-Robotics-blueviolet?style=for-the-badge)
+![Embodied AI](https://img.shields.io/badge/Focus-Embodied%20AI-black?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Interest-Machine%20Learning-blue?style=for-the-badge)
+![System Design](https://img.shields.io/badge/Interest-System%20Design-1f6feb?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-shubhamd1310-orange?style=for-the-badge&logo=leetcode)
 
 ## 🛠 Tech Stack
 **Languages:** Python, C, C++, C#, JavaScript, PHP  
